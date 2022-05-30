@@ -1,6 +1,6 @@
-<img align="center" src="images/logo.png">
-
 <img align="right" src="https://komarev.com/ghpvc/?username=sl14888">
+
+<img align="center" src="images/logo.png">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -10,8 +10,8 @@
 
 <h5 align="center">
   <code>
-    <a href="https://t.me/sl333333" title="Telegram Profile"><img width="22" src="images/telegram-svgrepo-com.svg"> Telegram</a></code>
-  <code><a href="images/email-svgrepo-com.svg" title="Vk Profile"><img width="22" src="images/vk.png">Email</a></code>
+    <a href="https://t.me/sl333333" title="Telegram Profile"><img width="22" src="images/telegram-svgrepo-com.svg">Telegram</a></code>
+  <code><a href="#" title="Vk Profile"><img width="22" src="images/images/vk-svgrepo-com.svg">Vk</a></code>
 </h5>
 <br>
 <p align="center">
@@ -75,13 +75,13 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/sl14888/React-todo-learning" title="React TODO"><img align="left" height="115" width="384" src="https://github-readme-stats.vercel.app/api/pin/?username=sl14888&repo=React-todo-learning&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/sl14888/ReactChatApp" title="ReactChatApp"><img align="right" height="115" width="384" src="https://github-readme-stats.vercel.app/api/pin/?username=sl14888&repo=ReactChatApp&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/sl14888/React-todo-learning" title="React TODO"><img align="left" height="115" width="314" src="https://github-readme-stats.vercel.app/api/pin/?username=sl14888&repo=React-todo-learning&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/sl14888/ReactChatApp" title="ReactChatApp"><img align="right" height="115" width="314" src="https://github-readme-stats.vercel.app/api/pin/?username=sl14888&repo=ReactChatApp&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/sl14888/react-kubSu" title="React KUBSU"><img align="left" height="115" width="384" src="https://github-readme-stats.vercel.app/api/pin/?username=sl14888&repo=react-kubSu&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/sl14888/React-weather-app" title="React-weather-app"><img align="right" height="115" width="384" src="https://github-readme-stats.vercel.app/api/pin/?username=sl14888&repo=React-weather-app&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/sl14888/react-kubSu" title="React KUBSU"><img align="left" height="115" width="314" src="https://github-readme-stats.vercel.app/api/pin/?username=sl14888&repo=react-kubSu&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/sl14888/React-weather-app" title="React-weather-app"><img align="right" height="115" width="314" src="https://github-readme-stats.vercel.app/api/pin/?username=sl14888&repo=React-weather-app&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br>
