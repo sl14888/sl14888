@@ -8,8 +8,8 @@
 
 <h5 align="center">
   <code>
-    <a href="https://t.me/sl333333" title="Telegram Profile"><img width="22" src="images/telegram.svg"> Telegram</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="Vk Profile"><img width="22" src="images/vk.png"> Vk</a></code>
+    <a href="https://t.me/sl333333" title="Telegram Profile"><img width="22" src="images/telegram-svgrepo-com.svg"> Telegram</a></code>
+  <code><a href="email-svgrepo-com.svg" title="Vk Profile"><img width="22" src="images/vk.png"> Vk</a></code>
 </h5>
 <br>
 <p align="center">
