@@ -10,7 +10,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://t.me/sl333333" title="Telegram Profile"><img width="22" src="images/telegram-svgrepo-com.svg">Telegram</a></code>
+    <a href="https://t.me/sl333333" title="Telegram Profile"><img width="22" src="images/telegram-svgrepo-com.svg">  Telegram</a></code>
 </h5>
 <br>
 <p align="center">
