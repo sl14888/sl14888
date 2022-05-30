@@ -11,11 +11,10 @@
 <h5 align="center">
   <code>
     <a href="https://t.me/sl333333" title="Telegram Profile"><img width="22" src="images/telegram-svgrepo-com.svg">Telegram</a></code>
-  <code><a href="#" title="Vk Profile"><img width="22" src="images/vk-svgrepo-com.svg">Vk</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm SL, Frontend Developr from Krasnodar
+  Hi, I'm Arsenyuk Danil, Frontend Developr from Krasnodar
   <br>
   <br>
   🔬I am currently studying at the Kuban State University at the Faculty of Computer Technology and Applied Mathematics.
