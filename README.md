@@ -35,7 +35,18 @@
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
   <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
+  <code><img title="Redux" height="25" src="images/redux.svg"></code> 
+  <code><img title="TypeScript" height="25" src="images/TypeScript.svg"></code>
+  <code><img title="Webpack" height="25" src="images/webpack.svg"></code>
+  <code><img title="Tailwindcss" height="25" src="images/tailwindcss.svg"></code>
+  <code><img title="Babeljs" height="25" src="images/Babeljs.svg"></code>
+  <code><img title="Pug" height="25" src="images/Pug.svg"></code>
+  <code><img title="Bootstrap" height="25" src="images/Bootstrap.svg"></code
+  <code><img title="ChartJS" height="25" src="images/ChartJS.svg"></code>
+  <code><img title="Firebase" height="25" src="images/firebase.svg"></code>
+  <code><img title="Bash" height="25" src="images/Bash.svg"></code
+  <code><img title="Figma" height="25" src="images/Figma.svg"></code
+  <code><img title="photoshop" height="25" src="images/photoshop.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
